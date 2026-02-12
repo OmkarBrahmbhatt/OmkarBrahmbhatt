@@ -2,7 +2,7 @@
 
 ### MS in Computer Science Student @ Temple University | FIDE Rated Chess Player
 
-I am a graduate student (Class of 2027) passionate about **Machine Learning**, **Distributed Systems**, and **Data Structures**. I’m currently documenting my technical growth daily throughout 2026 and seeking a **Summer 2026 Internship**.
+I am a graduate student passionate about **Machine Learning**, **Distributed Systems**, and **Data Structures**. I’m currently documenting my technical growth daily throughout 2026 and seeking a **Summer 2026 Internship**.
 
 ---
 
