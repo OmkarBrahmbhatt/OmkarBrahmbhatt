@@ -12,7 +12,7 @@
 - 🎓 Pursuing my **M.S. in Computer Science** at Temple University, graduating **May 2027**.
 - 🤖 I build end-to-end ML and Generative AI systems — multi-agent LLM apps, computer vision pipelines, and ML web apps that actually run.
 - 🔬 Currently designing **Socratic Chess**, an HCI research study on whether AI should *give answers* or *teach reasoning*.
-- ♟️ FIDE-rated chess player — years of training in clear, structured decision-making.
+- ♟️ FIDE-rated chess player - 5 years of training in clear, structured decision-making.
 - 📫 Reach me at **omkarbrahmbhatt11@gmail.com**
 - 💼 Open to **New-Grad Software Engineer / Machine Learning Engineer** roles starting 2027.
 ---
