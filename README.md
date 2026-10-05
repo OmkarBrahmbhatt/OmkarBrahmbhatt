@@ -37,35 +37,4 @@
  
 ---
  
-### 📌 Featured Projects
- 
-#### ♟️ [Socratic Chess — Question-Based AI Feedback](https://github.com/your-username/socratic-chess)
-An HCI research study + interactive chess web app testing whether **question-first** AI feedback helps people make better *independent* decisions than conventional **answer-first** feedback.
-`JavaScript (chessboard.js / chess.js)` · `Python` · `Stockfish` · `NASA-TLX`
- 
-#### 🧠 [AutoGen Research Paper Generator](https://github.com/your-username/autogen-paper-generator)
-AI-powered research-paper generator using **Microsoft AutoGen**, orchestrating collaborating LLM agents (planning, writing, review) to produce coherent, customizable multi-section drafts from a topic prompt.
-`Python` · `AutoGen` · `LLMs`
- 
-#### 🙂 [Real-Time Facial Emotion Recognition](https://github.com/your-username/facial-emotion-recognition)
-Real-time emotion-detection system using a pre-trained **VGG-16** model on the FER-2013 dataset to classify facial expressions from live webcam video, with an end-to-end face-detection and inference pipeline.
-`Python` · `OpenCV` · `VGG-16` · `Deep Learning`
- 
-#### 📊 [ML Web Apps — Car Price Prediction & Sentiment Analysis](https://github.com/your-username)
-A Flask app predicting used-car prices with a **Random Forest** model, and a Streamlit app for text/CSV sentiment analysis with TextBlob.
-`Python` · `scikit-learn` · `Flask` · `Streamlit`
- 
----
- 
-### 📈 GitHub Stats
- 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true" alt="Omkar's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
----
- 
-<p align="center"><i>Always happy to connect with people working in ML, GenAI, and human–AI interaction.</i></p>
+
